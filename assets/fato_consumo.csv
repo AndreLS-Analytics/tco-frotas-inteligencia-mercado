@@ -1,0 +1,5 @@
+veiculo_id,tipo_energia,consumo_urbano,unidade_consumo,preco_unitario_energia
+1,Gasolina,11.6,km/l,5.8
+1,Etanol,8.0,km/l,3.9
+2,Gasolina,17.8,km/l,5.8
+3,Eletricidade,6.2,km/kWh,0.85

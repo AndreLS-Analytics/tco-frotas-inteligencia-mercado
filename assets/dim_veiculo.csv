@@ -1,0 +1,4 @@
+veiculo_id,modelo,categoria,fabricante,ano_modelo,preco_aquisicao,potencia_motor_eletrico_kw,tensao_bateria_v,elegivel_isencao_ipva_sp
+1,Toyota Corolla Sedan XEi 2.0,Flex,Toyota,2026,163481.0,,,False
+2,Toyota Corolla Cross XRV Hybrid,Híbrido,Toyota,2026,179273.0,53.0,201.6,True
+3,BYD Dolphin GS 38kWh,Elétrico,BYD,2026,149990.0,70.0,400.0,False
